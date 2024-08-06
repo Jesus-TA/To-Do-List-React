@@ -43,6 +43,8 @@ To start the development server and view the application in your browser:
     ```
 2. Open your browser and go to `http://localhost:3000`
 3. Expected result
+
+   
    ![Opera Snapshot_2024-08-06_054034_localhost](https://github.com/user-attachments/assets/90e12a69-b824-4a3e-8d70-5334b3a40792)
 
 
