@@ -44,7 +44,7 @@ To start the development server and view the application in your browser:
 2. Open your browser and go to `http://localhost:3000`
 
 ## Credits
-This project was created by **Jesus Torres** with guidance and help from **React js. Mentor**, a custom GPT created by Jesus Torres and powered by [ChatGPT](https://www.openai.com/chatgpt), a large language model trained by OpenAI.
+This project was created by **Jesus Torres** with guidance and help from **React js. Mentor**, a custom GPT created by the same author and powered by [ChatGPT](https://www.openai.com/chatgpt), a large language model trained by OpenAI.
 
 Special thanks to OpenAI and the developers who have contributed to the React framework.
 
