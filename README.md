@@ -42,9 +42,13 @@ To start the development server and view the application in your browser:
     npm start
     ```
 2. Open your browser and go to `http://localhost:3000`
+3. Expected result
+   ![Opera Snapshot_2024-08-06_054034_localhost](https://github.com/user-attachments/assets/90e12a69-b824-4a3e-8d70-5334b3a40792)
+
 
 ## Credits
 This project was created by **Jesus Torres** with guidance and help from **React js. Mentor**, a custom GPT created by the same author and powered by [ChatGPT](https://www.openai.com/chatgpt), a large language model trained by OpenAI.
+
 
 Special thanks to OpenAI and the developers who have contributed to the React framework.
 
