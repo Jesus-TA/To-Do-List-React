@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+}
+
+.todo-container {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  margin: 20px auto;
+}
+
+.todo-input {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+
+.todo-button {
+  padding: 10px;
+  border: none;
+  background-color: #61dafb;
+  color: white;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.todo-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.todo-item {
+  background-color: #f9f9f9;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.delete-button {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  padding: 5px;
+}
